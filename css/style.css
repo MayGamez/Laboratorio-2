@@ -30,4 +30,49 @@
     color: rgb(210, 21, 21);
 }
 
-/* <-- cierre del header --> */
+/* <-- Cierre del header --> */
+
+/* <-- hero --> */
+
+.hero{
+    background-image: url(../img/imagen\ fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.padre{
+    position: relative;
+}
+
+.presentacion{
+    color: antiquewhite;
+    padding-top: 5em;
+}
+
+.presentacion h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+}
+
+.presentacion{
+    font-size: 22px;
+}
+
+.btn{
+    margin-top: 20px;
+    background-color: antiquewhite;
+    color: brown;
+    padding: 10px;
+    border-radius: 15%;
+}
+.capa{
+    position:absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.448);
+}
+
+/* <-- Cierro hiro --> */
