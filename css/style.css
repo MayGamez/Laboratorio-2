@@ -179,11 +179,6 @@
 
 /* <-- Pie de pagina -->*/
 
-/*.contacto {
-    padding: 50px 20px;
-    background-color: #f0f0f0;
-}*/
-
 .footer {
     background-color: #502b2b;
     color: #fff;
@@ -236,8 +231,6 @@
     border-radius: 5px;
     cursor: pointer;
 }
-
-
 
 .enlaces-sesiones {
     display: flex;
